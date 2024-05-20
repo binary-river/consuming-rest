@@ -5,8 +5,9 @@
 > start.spring.io 에서 dependency 에 SpringWeb 을 추가하거나, 이 Repository를 fork해서 사용해보세요! <br>
 > 이 Repository는 Java 21, Grandle로 구성되어있어요!
 > 
-> 호출할 Restful Service는 https://github.com/spring-guides/quoters 를 이용하여 localhost:8080 에서 실행해요!
-> 그래서 이 repository의 서버는 8081에서 실행하도록 설정했어요. application.properties 를 참조해주세요!
+> 호출할 Restful Service는 https://github.com/spring-guides/quoters 를 이용해요
+> 이 서비스를 호출하면 랜덤으로 spring 관련 명언을 반환하고 있어요!
+> quoters 서비스가 8080 포트를 사용하고 있어서 이 repository의 서버는 8081에서 실행하도록 설정했어요. application.properties 를 참조해주세요!
 
 <br>
 
