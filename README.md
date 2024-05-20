@@ -1,4 +1,4 @@
-<h1 align="center">Spring Restful Service 기초 템플릿 👋</h1>
+<h1 align="center">Spring Restful Service 호출 기초 템플릿 👋</h1>
 
 > Spring 으로 Restful Service를 호출하는 가장 기초적인 방법이예요. <br>
 > RestTemplate 라이브러리를 사용해 구현해요! <br>
