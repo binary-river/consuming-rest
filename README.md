@@ -1,5 +1,11 @@
 <h1 align="center">Spring Restful Service 호출 기초 템플릿 👋</h1>
 
+<p>
+  <a href="/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/License-ASLv2-yellow" />
+  </a>
+</p>
+
 > Spring 으로 Restful Service를 호출하는 가장 기초적인 방법이예요. <br>
 > RestTemplate 라이브러리를 사용해 구현해요! <br>
 > start.spring.io 에서 dependency 에 SpringWeb 을 추가하거나, 이 Repository를 fork해서 사용해보세요! <br>
